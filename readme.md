@@ -1,4 +1,5 @@
 # Rick and Morty characters APP
+## Dependencies:
 * Retrofit
 * Dagger Hilt
 * Coil
